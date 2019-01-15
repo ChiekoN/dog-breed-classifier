@@ -10,9 +10,9 @@
 
 ### Project Overview
 
-In this project, I learned how to build a pipeline to process real-world, user-supplied images. Given an image of a dog, my algorithm identifies an estimate of the canine's breed. If supplied an image of a human, the code identifies the resembling dog breed.
+In this project, I learned how to build a pipeline to process real-world, user-supplied images. I built an algorithm that identifies an estimate of the canine's breed, given an image of a dog. If supplied an image of a human, it identifies the resembling dog breed.
 
-The main part of this project is exploring Convolutional Neural Networks(CNN) models for classification. Not only about the classification algorithm architecture, I also had to make decisions about the user experience for this app. Through this project, I discovered the challenges involved in piecing together a series of models designed to perform various tasks in a data processing pipeline.
+The main part of this project was exploring Convolutional Neural Networks(CNN) models for classification. Not only about the classification algorithm architecture, I also had to make decisions about the user experience for this app. Through this project, I discovered the challenges involved in piecing together a series of models designed to perform various tasks in a data processing pipeline.
 
 ### App Design
 
